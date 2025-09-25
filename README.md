@@ -1,6 +1,6 @@
-# ⚽ FootyMind: Player & Ball Tracking + Event Detection from Football Video
+# ⚽ FootBallAnalyser_AI: Player & Ball Tracking + Event Detection from Football Video
 
-**FootyMind** is an AI-powered football analytics pipeline that tracks players and the ball, identifies team associations, and detects key match events like passes, tackles, and goals—all from match video footage. This project uses a custom-trained YOLO model, tracking algorithms, and spatial analysis to generate structured insights.
+**FootBallAnalyser_AI** is an AI-powered football analytics pipeline that tracks players and the ball, identifies team associations, and detects key match events like passes, tackles, and goals—all from match video footage. This project uses a custom-trained YOLO model, tracking algorithms, and spatial analysis to generate structured insights.
 
 ---
 
@@ -63,8 +63,8 @@ FOOTYMIND/  <br>
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/erratus/FootyMind.git
-cd FootyMind
+git clone https://github.com/Xeen76/FootballAnalyserAI.git
+cd FootballAnalyserAI
 ```
 
 ### 2. Install Dependencies
