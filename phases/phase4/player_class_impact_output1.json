@@ -1,0 +1,17 @@
+{
+    "Player_Styles": {
+        "Player_10_A": "Unclassified",
+        "Player_7_A": "Striker/Finisher"
+    },
+    "Playstyle_Counts": {
+        "Unclassified": 1,
+        "Striker/Finisher": 1
+    },
+    "Avg_Team_Speed": 0.0,
+    "MVP": {
+        "name": "Player_7_A",
+        "contribution_score": 250,
+        "playstyle": "Striker/Finisher"
+    },
+    "Recommended_Strategy": "Strategy 13: Play around MVP, keep them free of marking"
+}

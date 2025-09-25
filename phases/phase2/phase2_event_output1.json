@@ -1,0 +1,101 @@
+[
+    {
+        "timestamp": "0:00:01.375000",
+        "frame": 34,
+        "ball": [
+            1088.0,
+            663.0
+        ],
+        "event": "tackle",
+        "by": "Player_10_A",
+        "to": "Player_1_B"
+    },
+    {
+        "timestamp": "0:00:01.416000",
+        "frame": 35,
+        "ball": [
+            1088.0,
+            659.0
+        ],
+        "event": "tackle",
+        "by": "Player_10_A",
+        "to": "Player_10_A"
+    },
+    {
+        "timestamp": "0:00:01.458000",
+        "frame": 36,
+        "ball": [
+            1096.0,
+            663.0
+        ],
+        "event": "tackle",
+        "by": "Player_10_A",
+        "to": "Player_1_B"
+    },
+    {
+        "timestamp": "0:00:01.500000",
+        "frame": 37,
+        "ball": [
+            1104.0,
+            659.0
+        ],
+        "event": "tackle",
+        "by": "Player_10_A",
+        "to": "Player_10_A"
+    },
+    {
+        "timestamp": "0:00:11.458000",
+        "frame": 276,
+        "ball": [
+            1326.0,
+            390.0
+        ],
+        "event": "goal",
+        "by": "Player_7_A",
+        "to": null
+    },
+    {
+        "timestamp": "0:00:11.500000",
+        "frame": 277,
+        "ball": [
+            1328.0,
+            388.0
+        ],
+        "event": "goal",
+        "by": "Player_7_A",
+        "to": null
+    },
+    {
+        "timestamp": "0:00:11.541000",
+        "frame": 278,
+        "ball": [
+            1328.0,
+            390.0
+        ],
+        "event": "goal",
+        "by": "Player_7_A",
+        "to": null
+    },
+    {
+        "timestamp": "0:00:11.583000",
+        "frame": 279,
+        "ball": [
+            1327.0,
+            391.0
+        ],
+        "event": "goal",
+        "by": "Player_7_A",
+        "to": null
+    },
+    {
+        "timestamp": "0:00:11.625000",
+        "frame": 280,
+        "ball": [
+            1327.0,
+            389.0
+        ],
+        "event": "goal",
+        "by": "Player_7_A",
+        "to": null
+    }
+]
